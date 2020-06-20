@@ -1,0 +1,29 @@
+.margen {
+    margin: 100px;
+  }
+  .table {
+    width: 100%;
+    text-align: left;
+  }
+  .table td {
+    padding: 10px 0;
+  }
+  #menu {
+    background-color: #253A46;
+    padding: 20px;
+    font-size: 20px;
+  }
+  #menu a {
+    color: #fff;
+    padding-right: 50px;
+  }
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .center {
+    text-align: center;
+  }
+  .red {
+    color: red;
+  }
