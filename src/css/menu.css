@@ -1,0 +1,23 @@
+#menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #253A46;
+    padding: 20px;
+    font-size: 20px;
+}
+.icon {
+    width: 50px;
+    margin-left: 50px;
+}
+.icon:hover {
+    cursor: pointer;
+}
+.enlace {
+    color: #fff;
+    padding-right: 50px;
+    text-decoration: none;
+}
+.enlace:hover {
+    text-decoration: underline;
+}

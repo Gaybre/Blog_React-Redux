@@ -1,7 +1,3 @@
-import React from 'react'
-
-const Tareas = () => (
-    'Tareas'
-)
+const Tareas = () => 'Tareas'
 
 export default Tareas
